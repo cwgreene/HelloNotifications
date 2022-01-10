@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HelloNotifications (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "HelloNotifications (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
